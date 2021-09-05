@@ -2,7 +2,6 @@ pkgbase = mingw-w64-portaudio
 	pkgdesc = A free, cross-platform, open source, audio I/O library. (mingw-w64)
 	pkgver = 19.6.0
 	pkgrel = 1
-	epoch = 1
 	url = http://www.portaudio.com
 	arch = any
 	license = custom
@@ -23,4 +22,3 @@ pkgbase = mingw-w64-portaudio
 	sha256sums = d1d83ed329b43f3ac89c653b7a01d0ba57eb94020c640490fbb1572b3b638273
 
 pkgname = mingw-w64-portaudio
-

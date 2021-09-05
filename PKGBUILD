@@ -7,7 +7,6 @@ pkgname=mingw-w64-portaudio
 _version=190600_20161030
 pkgver=19.6.0
 pkgrel=1
-epoch=1
 pkgdesc="A free, cross-platform, open source, audio I/O library. (mingw-w64)"
 arch=('any')
 url="http://www.portaudio.com"
